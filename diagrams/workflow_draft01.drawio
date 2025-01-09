@@ -11,7 +11,10 @@
           <mxGeometry x="20" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tE0m3H5MtSQQl2QSymbu-3" value="Admission" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="25" y="10" width="110" height="30" as="geometry" />
+          <mxGeometry x="40" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tE0m3H5MtSQQl2QSymbu-5" value="Triage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="10" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
