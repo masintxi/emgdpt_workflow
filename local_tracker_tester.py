@@ -1,5 +1,5 @@
 import tkinter as tk
-from localGPS import Receiver, Tracker
+from local_tracker import Receiver, Tracker
 
 def move():
     can.delete("temp")
